@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Available 👇
 
-Justin Thomas Domain](https://www.mrjustin.xyz) | [Justin Thomas Telegram](https://telegram.dog/Mr_justinthomas)
+[Justin Thomas Domain](https://www.mrjustin.xyz) | [Justin Thomas Telegram](https://telegram.dog/Mr_justinthomas)
 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/justinthoms/&title=Profile%20Views)
